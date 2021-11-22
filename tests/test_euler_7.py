@@ -3,7 +3,7 @@ from euler_7 import solve, sieve
 from parameterized import parameterized
 
 
-class TestEuler6(TestCase):
+class TestEuler7(TestCase):
     @parameterized.expand(
         [
             (3, 5),
